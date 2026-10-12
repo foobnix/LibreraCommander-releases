@@ -202,3 +202,8 @@ brightness is read when the panel opens and written as you drag.
 Found a bug or have an idea? [Open an issue](https://github.com/foobnix/LibreraCommander-releases/issues) — please
 include your macOS version, the LibreraCommander version (bottom of the info panel's System view) and the steps to
 reproduce. Or email **librera.reader@gmail.com**.
+
+## License
+
+LibreraCommander is free, closed-source software — see [LICENSE](LICENSE) for the terms and the open-source components
+it includes (SwiftTerm, MarkdownUI, NetworkImage, swift-cmark, Monaco Editor; MIT / BSD / Apache-2.0, no GPL).
