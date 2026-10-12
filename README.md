@@ -196,3 +196,9 @@ in the left panel" sends favorites, bookmarks and locations to the left panel in
 The info panel's **Sound & Display** card controls the default output device (slider, click the speaker to mute) and
 every display's brightness: built-in and Apple displays, and external monitors over DDC/CI (Apple silicon). Monitor
 brightness is read when the panel opens and written as you drag.
+
+## Support
+
+Found a bug or have an idea? [Open an issue](https://github.com/foobnix/LibreraCommander-releases/issues) — please
+include your macOS version, the LibreraCommander version (bottom of the info panel's System view) and the steps to
+reproduce. Or email **librera.reader@gmail.com**.

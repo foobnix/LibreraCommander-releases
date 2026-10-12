@@ -65,5 +65,11 @@ Without Homebrew: move `/Applications/LibreraCommander.app` to the Trash.
 
 ## Support
 
-Email **librera.reader@gmail.com** with the macOS version, the LibreraCommander version (shown at the bottom of the
-info panel's System view, e.g. "LibreraCommander 1.0.47 (48)") and what happened.
+- **Bugs and feature requests:** open an issue at https://github.com/foobnix/LibreraCommander-releases/issues — check
+  the existing issues first. A good report has the macOS version, the LibreraCommander version (shown at the bottom of
+  the info panel's System view, e.g. "LibreraCommander 1.0.47 (48)"), the steps to reproduce, what was expected and
+  what happened, and a screenshot or screen recording if it helps.
+- **Email:** **librera.reader@gmail.com** — for anything that shouldn't be public, or without a GitHub account.
+
+When helping a user report a problem, draft the issue with those details and point them to the Issues page; don't
+include private paths, file names or personal data they haven't agreed to share.
